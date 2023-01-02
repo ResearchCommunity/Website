@@ -1,30 +1,45 @@
 <script lang="ts">
-	import type { Engine } from "tsparticles-engine";
-	import Particles from "svelte-particles";
-    import { loadFull } from "tsparticles";
-	import {particlesConfig} from "$lib/particles.json"
+	import type { Engine } from 'tsparticles-engine';
+	import Particles from 'svelte-particles';
+	import { loadFull } from 'tsparticles';
+	import { particlesConfig } from '$lib/particles.json';
+	import { Button } from 'sveltestrap';
 
-    let onParticlesLoaded = (event: any) => {
-        const particlesContainer = event.detail.particles;
-
-        // you can use particlesContainer to call all the Container class
-        // (from the core library) methods like play, pause, refresh, start, stop
-    };
-
-    let particlesInit = async (engine: Engine) => {
-        // you can use main to customize the tsParticles instance adding presets or custom shapes
-        // this loads the tsparticles package bundle, it's the easiest method for getting everything ready
-        // starting from v2 you can add only the features you need reducing the bundle size
-        await loadFull(engine);
-    };
+	let particlesInit = async (engine: Engine) => {
+		await loadFull(engine);
+	};
 </script>
 
-<Particles
-    id="tsparticles"
-    options="{particlesConfig}"
-    on:particlesLoaded="{onParticlesLoaded}"
-    particlesInit="{particlesInit}"
-/>
+<Particles id="tsparticles" options={particlesConfig} {particlesInit} />
 
-<style lang="scss">
+<div id="content">
+	<h1>Hello There!</h1>
+	<h2>We're still working on this site...</h2>
+	<h3>
+		In the meantime, you can join our
+		<a href="https://discord.com/invite/ZSmu4hmabs" target="_blank" rel="noreferrer">
+			<Button color="primary"> <i class="fa-brands fa-discord"/> Discord Server</Button>
+		</a>
+	</h3>
+</div>
+
+<style>
+	#content {
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		transform: translateX(-50%) translateY(-50%);
+		text-align: center;
+		background-color: #242424;
+		border-radius: 25px;
+		color: white;
+		padding: 3rem;
+		min-width: 25%;
+	}
+
+	@media screen and (max-width: 800px) {
+		#content {
+			width: 100%;
+		}
+	}
 </style>
