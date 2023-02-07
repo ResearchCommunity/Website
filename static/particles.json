@@ -27,7 +27,7 @@
     },
     "detectRetina": true,
     "duration": 0,
-    "fpsLimit": 120,
+    "fpsLimit": 30,
     "interactivity": {
         "detectsOn": "window",
         "events": {
@@ -285,8 +285,8 @@
                 "area": 800,
                 "factor": 1000
             },
-            "limit": 500,
-            "value": 300
+            "limit": 250,
+            "value": 150
         },
         "opacity": {
             "random": {
