@@ -30,7 +30,7 @@
 	</div>
 	<div class="content-box">
 		<h1>Visit Us!</h1>
-		<a href="https://discord.com/invite/ZSmu4hmabs" target="_blank" rel="noopener noreferrer"
+		<a href="https://join.research-community.org" target="_blank" rel="noopener noreferrer"
 			><Button color="primary"><i class="fa-brands fa-discord" /> Join on Discord</Button></a
 		>
 	</div>
