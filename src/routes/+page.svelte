@@ -31,7 +31,10 @@
 	<div class="content-box">
 		<h1>Visit Us!</h1>
 		<a href="https://join.research-community.org" target="_blank" rel="noopener noreferrer"
-			><Button color="primary"><i class="fa-brands fa-discord" /> Join on Discord</Button></a
+			><Button color="primary"><i class="fa-brands fa-discord" /> Discord</Button></a
+		>
+		<a href="https://matrix.to/#/#chat:research-community.org" target="_blank" rel="noopener noreferrer"
+			><Button color="primary"><img src="/matrix.svg" style="width: 1rem;" alt="Matrix Logo" /> Matrix</Button></a
 		>
 	</div>
 	<div class="content-box">
