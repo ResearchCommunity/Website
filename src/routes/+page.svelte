@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { Button } from 'sveltestrap';
-	import Footer from '$lib/components/footer.svelte'
+	import Footer from '$lib/components/footer.svelte';
 </script>
 
 <div id="header" class="container w-100 noselect">
@@ -24,24 +24,34 @@
 	</div>
 	<div class="content-box">
 		<h1>Visit Us!</h1>
+
 		<a href="https://join.research-community.org" target="_blank" rel="noopener noreferrer"
 			><Button color="primary"><i class="fa-brands fa-discord" /> Discord</Button></a
 		>
-		<a href="https://matrix.to/#/#chat:research-community.org" target="_blank" rel="noopener noreferrer"
-			><Button color="primary"><img src="/matrix.svg" style="width: 1rem;" alt="Matrix Logo" /> Matrix</Button></a
+
+		<a
+			href="https://matrix.to/#/#chat:research-community.org"
+			target="_blank"
+			rel="noopener noreferrer"
+			><Button color="primary"
+				><img src="/matrix.svg" style="width: 1rem;" alt="Matrix Logo" /> Matrix</Button
+			></a
 		>
 	</div>
 	<div class="content-box">
 		<h1>Social Media</h1>
+
 		<a href="https://instagram.com/research_community_" target="_blank" rel="noopener noreferrer"
 			><Button color="warning"><i class="fa-brands fa-instagram" /> Instagram</Button></a
+		>
+
+		<a rel="me noopener noreferrer" target="_blank" href="https://mstdn.social/@research_community"
+			><Button color="warning"><i class="fa-brands fa-mastodon" /> Mastodon</Button></a
 		>
 	</div>
 </div>
 
 <Footer />
-
-
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&display=swap');
