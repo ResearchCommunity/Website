@@ -11,6 +11,8 @@
 <svelte:head>
 	<title>Research Community</title>
 
+	<link rel="stylesheet" href="/style.css" />
+
 	<meta content="Research Community" property="og:title" />
 	<meta content="Community around Research and Education on Psychoactive Substances" property="og:description" />
 	<meta content="https://research-comunity.org" property="og:url" />

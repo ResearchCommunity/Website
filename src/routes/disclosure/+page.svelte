@@ -65,8 +65,6 @@
 <Footer />
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&display=swap');
-
 	#content {
 		text-align: center;
 		font-family: 'Poppins', sans-serif;

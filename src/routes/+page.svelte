@@ -54,7 +54,6 @@
 <Footer />
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Poppins&display=swap');
 
 	#header {
 		text-align: center;
@@ -76,23 +75,6 @@
 		text-align: center;
 		font-family: 'Poppins', sans-serif;
 		margin-top: 100vh;
-	}
-	.content-box {
-		background-color: #242424;
-		border-radius: 25px;
-		padding: 3rem;
-		max-width: 75%;
-		display: block;
-		color: white;
-		margin-bottom: 5rem;
-		font-size: x-large;
-		margin-left: 50%;
-		transform: translateX(-50%);
-	}
-
-	.content-box h1 {
-		font-family: 'Concert One', cursive;
-		margin-bottom: 2rem;
 	}
 
 	#logo {

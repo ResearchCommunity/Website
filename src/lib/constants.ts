@@ -1,0 +1,1 @@
+export const SHOP_API_HOST = "http://localhost:3025"
