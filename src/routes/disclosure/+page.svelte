@@ -15,8 +15,8 @@
 		<h3>Represented By</h3>
 		Xenorio - Management <br>
         Marcus Huber <br>
-        Postfach 22 45 <br>
-        64533 Mörfelden-Walldorf <br>
+        Schlesierstraße 3 <br>
+        64546 Mörfelden-Walldorf <br>
         Germany <br><br>
 
 		<h3>Contact Information</h3>
