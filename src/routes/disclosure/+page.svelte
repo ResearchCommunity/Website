@@ -20,12 +20,13 @@
         Germany <br><br>
 
 		<h3>Contact Information</h3>
-		E-Mail: business@xenorio.xyz <br>
+		E-Mail: hi@research-community.org <br>
         Phone: +49 160 897 8834
         <br><br>
 
         <h3>Accountability for Content</h3>
-        "Xenorio - Management" is fully responsible for any content found on this website. <br><br>
+        Some content may be user-generated. We do not take responsibility for this content, but we are moderating it to the best of our abilities. <br><br>
+		Responsibility for all non-user-generated content lies with us. <br><br>
         Please note that we are not obliged to monitor transmitted or saved information of third parties. <br><br>
         Also, we are not obliged to investigate circumstances pointing to illegal activity.
         <br><br>
@@ -39,13 +40,17 @@
 		<h1>Privacy Policy</h1>
 		
         <h3>Cookies &amp; Trackers</h3>
-        We do not set or use any cookies or other means of tracking <br><br>
+        Cookies are only set and used to provide functionality (Example: Remembering your account). We do not use trackers or analytics software. <br><br>
 
         <h3>Data Processing</h3>
         This website actively processes and saves your IP address. This is used to provide basic functionality, and prevent potential malicious acts.
         <br><br>
         Your browser or operating system may send other personally identifying data. This data is being ignored.
         <br><br>
+		All user data (Example: Your forum account) is secured with modern standards and only saved while it is in use. You are able to delete all data at all times (Example: Deleting your account).
+		<br><br>
+		No data is ever sent to 3rd parties, unless required by law.
+		<br><br>
         Our servers are entirely located in Europe (Finland). We abide by european data protection laws. 
         <br><br>
 
