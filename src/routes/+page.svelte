@@ -37,6 +37,16 @@
 				><img src="/matrix.svg" style="width: 1rem;" alt="Matrix Logo" /> Matrix</Button
 			></a
 		>
+
+		<a
+			href="https://forum.research-community.org"
+			target="_blank"
+			rel="noopener noreferrer"
+			><Button color="primary"
+				><i class="fa-solid fa-user-group"></i> Forum</Button
+			></a
+		>
+
 	</div>
 	<div class="content-box">
 		<h1>Social Media</h1>
