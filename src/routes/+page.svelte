@@ -59,6 +59,14 @@
 			><Button color="warning"><i class="fa-brands fa-mastodon" /> Mastodon</Button></a
 		>
 	</div>
+	<div class="content-box">
+		<h1>Other Links</h1>
+
+		<a href="https://opencollective.com/research-fund" target="_blank" rel="noopener noreferrer"
+			><Button color="warning"><i class="fa-solid fa-piggy-bank" /> Donate (OpenCollective)</Button></a
+		>
+
+	</div>
 </div>
 
 <Footer />
