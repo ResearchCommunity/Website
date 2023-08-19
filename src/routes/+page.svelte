@@ -47,6 +47,15 @@
 			></a
 		>
 
+		<a
+			href="https://wiki.research-community.org"
+			target="_blank"
+			rel="noopener noreferrer"
+			><Button color="primary"
+				><i class="fa-solid fa-book"></i> Wiki</Button
+			></a
+		>
+
 	</div>
 	<div class="content-box">
 		<h1>Social Media</h1>
