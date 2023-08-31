@@ -16,32 +16,24 @@
     <h5>Do not spread wrong and/or harmful advice in bad faith</h5>
     <br>
 
-    <h3>#4 No Minors Allowed</h3>
-    <h5>You must be over the age of 18 to join. If we find out that you are not, you will be immediately banned.</h5>
-    <br>
-
-    <h3>#5 No Doxxing</h3>
+    <h3>#4 No Doxxing</h3>
     <h5>Do not give out personal details or information about anyone without their explicit consent</h5>
     <br>
 
-    <h3>#6 No Advertising</h3>
+    <h3>#5 No Advertising</h3>
     <h5>Do not advertise your product, service, social media, whatever here</h5>
     <br>
 
-    <h3>#7 No Spam</h3>
+    <h3>#6 No Spam</h3>
     <h5>Spamming for the sake of spamming is not allowed</h5>
     <br>
 
-    <h3>#8 English Only</h3>
+    <h3>#7 English Only</h3>
     <h5>We are a very international community, so we have to agree on a common language to use. This is English.</h5>
     <br>
 
-    <h3>#9 The Unspoken Rules</h3>
+    <h3>#8 The Unspoken Rules</h3>
     <h5>This ruleset won't ever be able to cover every situation in every aspect. Moderators may decide themselves whether you're doing something wrong.</h5>
-    <br>
-
-    <h3>#10 The Obligatory Rule</h3>
-    <h5>Gotta have 10 rules, looks stupid otherwise</h5>
 </div>
 
 <style>
