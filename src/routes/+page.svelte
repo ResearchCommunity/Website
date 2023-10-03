@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { Button } from 'sveltestrap';
 	import Footer from '$lib/components/footer.svelte';
+	import { goto } from '$app/navigation';
 </script>
 
 <div id="header" class="container w-100 noselect">
@@ -38,24 +39,13 @@
 			></a
 		>
 
-		<a
-			href="https://forum.research-community.org"
-			target="_blank"
-			rel="noopener noreferrer"
-			><Button color="primary"
-				><i class="fa-solid fa-user-group"></i> Forum</Button
-			></a
+		<a href="https://forum.research-community.org" target="_blank" rel="noopener noreferrer"
+			><Button color="primary"><i class="fa-solid fa-user-group" /> Forum</Button></a
 		>
 
-		<a
-			href="https://wiki.research-community.org"
-			target="_blank"
-			rel="noopener noreferrer"
-			><Button color="primary"
-				><i class="fa-solid fa-book"></i> Wiki</Button
-			></a
+		<a href="https://wiki.research-community.org" target="_blank" rel="noopener noreferrer"
+			><Button color="primary"><i class="fa-solid fa-book" /> Wiki</Button></a
 		>
-
 	</div>
 	<div class="content-box">
 		<h1>Social Media</h1>
@@ -72,9 +62,22 @@
 		<h1>Other Links</h1>
 
 		<a href="https://opencollective.com/research-fund" target="_blank" rel="noopener noreferrer"
-			><Button color="warning"><i class="fa-solid fa-piggy-bank" /> Donate (OpenCollective)</Button></a
+			><Button color="warning"><i class="fa-solid fa-piggy-bank" /> Donate (OpenCollective)</Button
+			></a
 		>
+	</div>
 
+	<div style="margin-bottom: 2rem;">
+		<a
+			href="https://www.thegreenwebfoundation.org/green-web-check/?url=https%3A%2F%2Fresearch-community.org"
+			target="_blank" 
+			rel="noreferrer"
+		>
+			<img
+				src="https://api.thegreenwebfoundation.org/greencheckimage/research-community.org?nocache=true"
+				alt="This website is hosted Green - checked by thegreenwebfoundation.org"
+			/>
+		</a>
 	</div>
 </div>
 
