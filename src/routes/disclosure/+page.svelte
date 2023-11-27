@@ -21,7 +21,7 @@
 
 		<h3>Contact Information</h3>
 		E-Mail: hi@research-community.org <br>
-        Phone: +49 160 897 8834
+        Phone: +49 172 907 5536
         <br><br>
 
         <h3>Accountability for Content</h3>
