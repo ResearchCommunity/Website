@@ -30,22 +30,22 @@
 			><Button color="primary"><i class="fa-brands fa-discord" /> Discord</Button></a
 		>
 
-		<a
+		<!-- <a
 			href="https://matrix.to/#/#chat:research-community.org"
 			target="_blank"
 			rel="noopener noreferrer"
 			><Button color="primary"
 				><img src="/matrix.svg" style="width: 1rem;" alt="Matrix Logo" /> Matrix</Button
 			></a
-		>
+		> -->
 
 		<a href="https://forum.research-community.org" target="_blank" rel="noopener noreferrer"
 			><Button color="primary"><i class="fa-solid fa-user-group" /> Forum</Button></a
 		>
 
-		<a href="https://wiki.research-community.org" target="_blank" rel="noopener noreferrer"
+		<!-- <a href="https://wiki.research-community.org" target="_blank" rel="noopener noreferrer"
 			><Button color="primary"><i class="fa-solid fa-book" /> Wiki</Button></a
-		>
+		> -->
 	</div>
 	<div class="content-box">
 		<h1>Social Media</h1>
