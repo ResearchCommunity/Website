@@ -13,10 +13,10 @@
         (German law stuff)<br /><br />
 
 		<h3>Represented By</h3>
-		Xenorio - Management <br>
+		Xenorio Industries <br>
         Marcus Huber <br>
-        Schlesierstraße 3 <br>
-        64546 Mörfelden-Walldorf <br>
+        Stromtal 2 <br>
+        38226 Salzgitter <br>
         Germany <br><br>
 
 		<h3>Contact Information</h3>
