@@ -47,17 +47,13 @@
 			><Button color="primary"><i class="fa-solid fa-book" /> Wiki</Button></a
 		> -->
 	</div>
-	<div class="content-box">
+	<!-- <div class="content-box">
 		<h1>Social Media</h1>
-
-		<a href="https://instagram.com/research_community_" target="_blank" rel="noopener noreferrer"
-			><Button color="warning"><i class="fa-brands fa-instagram" /> Instagram</Button></a
-		>
 
 		<a rel="me noopener noreferrer" target="_blank" href="https://mstdn.social/@research_community"
 			><Button color="warning"><i class="fa-brands fa-mastodon" /> Mastodon</Button></a
 		>
-	</div>
+	</div> -->
 	<div class="content-box">
 		<h1>Other Links</h1>
 
