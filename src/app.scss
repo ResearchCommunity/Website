@@ -1,0 +1,22 @@
+@use 'tailwindcss/base';
+@use 'tailwindcss/components';
+@use 'tailwindcss/utilities';
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.section {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 3rem;
+  width: 75vw;
+}
+
+.section hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
