@@ -23,8 +23,8 @@
     (German law stuff) <br /><br />
 
     <b>This site is operated by:</b><br />
-    Xenorio Industries <br />
-    Marcus Huber <br />
+    Xenorio Huber <br />
+    <strong>Trading as: </strong>Xenorio Industries <br />
     Sudermannstraße 9 <br />
     38226 Salzgitter <br />
     Germany <br /><br />
