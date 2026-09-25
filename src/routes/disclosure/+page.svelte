@@ -24,7 +24,7 @@
 
     <b>This site is operated by:</b><br />
     Xenorio Huber <br />
-    <strong>Trading as: </strong>Xenorio Industries <br />
+    <strong>Trading as:&nbsp;</strong>Xenorio Industries <br />
     Sudermannstraße 9 <br />
     38226 Salzgitter <br />
     Germany <br /><br />
